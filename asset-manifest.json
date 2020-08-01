@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cra13-comments-add-dimension-form-input/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/cra13-comments-add-dimension-form-input/static/js/main.46e42659.chunk.js",
+    "main.js.map": "/cra13-comments-add-dimension-form-input/static/js/main.46e42659.chunk.js.map",
+    "runtime-main.js": "/cra13-comments-add-dimension-form-input/static/js/runtime-main.9c4bab9d.js",
+    "runtime-main.js.map": "/cra13-comments-add-dimension-form-input/static/js/runtime-main.9c4bab9d.js.map",
+    "static/js/2.dc2a1651.chunk.js": "/cra13-comments-add-dimension-form-input/static/js/2.dc2a1651.chunk.js",
+    "static/js/2.dc2a1651.chunk.js.map": "/cra13-comments-add-dimension-form-input/static/js/2.dc2a1651.chunk.js.map",
+    "index.html": "/cra13-comments-add-dimension-form-input/index.html",
+    "precache-manifest.9b8cd5fa8a9893c7db776369491a6833.js": "/cra13-comments-add-dimension-form-input/precache-manifest.9b8cd5fa8a9893c7db776369491a6833.js",
+    "service-worker.js": "/cra13-comments-add-dimension-form-input/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/cra13-comments-add-dimension-form-input/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.dc2a1651.chunk.js.LICENSE.txt": "/cra13-comments-add-dimension-form-input/static/js/2.dc2a1651.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c4bab9d.js",
+    "static/js/2.dc2a1651.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.46e42659.chunk.js"
+  ]
+}
