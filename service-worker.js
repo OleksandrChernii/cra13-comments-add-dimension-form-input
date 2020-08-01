@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cra13-comments-add-dimension-form-input/precache-manifest.9b8cd5fa8a9893c7db776369491a6833.js"
+  "/cra13-comments-add-dimension-form-input/precache-manifest.823c34aa56db4c2c71f4ef330416c6f9.js"
 );
 
 self.addEventListener('message', (event) => {
